@@ -91,7 +91,7 @@ The project template package contains three major components for the project:
 
 *** DAG Layout ***
 
-![Airflow DAGs](images/Airflow DAG Layout.png)
+![Airflow DAGs](https://github.com/AchalSuresh/Data-Pipelines-Using-Airflow/blob/master/images/Airflow%20DAG%20Layout.png)
 
 
 ## Requirements
