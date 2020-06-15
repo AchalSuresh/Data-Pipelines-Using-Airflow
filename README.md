@@ -89,7 +89,7 @@ The project template package contains three major components for the project:
 * The operators folder with operator templates and defines the structure for all the operator
 * A helper class for the SQL transformations to load tables on redshift
 
-*** DAG Layout ***
+### DAG Layout
 
 ![Airflow DAGs](https://github.com/AchalSuresh/Data-Pipelines-Using-Airflow/blob/master/images/Airflow%20DAG%20Layout.png)
 
