@@ -63,7 +63,7 @@ artist_id, name, location, latitude, longitude
 **time** - timestamps of records in songplays broken down into specific units
 start_time, hour, day, week, month, year, weekday
 
-![Databaseschema](image/schema.png)
+![Databaseschema](images/schema.png)
 
 
 ## Part II. Creation of Redshift Cluster and IAM Role in AWS 
@@ -90,7 +90,8 @@ The project template package contains three major components for the project:
 * A helper class for the SQL transformations to load tables on redshift
 
 *** DAG Layout ***
-![Airflow DAGs](image/Airflow DAG Layout.png)
+
+![Airflow DAGs](images/Airflow DAG Layout.png)
 
 
 ## Requirements
